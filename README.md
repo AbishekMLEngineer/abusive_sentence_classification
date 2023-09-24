@@ -26,3 +26,11 @@ now the environment is ready .
 
 then execute this below command.
 python nlp_app.py 
+
+
+Model used is :  Hate-speech-CNERG/english-abusive-MuRIL ::-->
+  title={Data Bootstrapping Approaches to Improve Low Resource Abusive Language Detection for Indic Languages},
+  author={Das, Mithun and Banerjee, Somnath and Mukherjee, Animesh},
+  journal={arXiv preprint arXiv:2204.12543},
+  year={2022}
+}
